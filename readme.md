@@ -52,8 +52,8 @@
 ### Devops
 [![](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)](https://whoimi.com?ref=github)
 [![](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)](https://whoimi.com?ref=github)
-[![](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)](https://whoimi.com?ref=github)
 [![](https://img.shields.io/badge/-Maven-000?&logo=apachemaven)](https://whoimi.com?ref=github)
+[![](https://img.shields.io/badge/-Docker-000?&logo=docker)](https://whoimi.com?ref=github)
 [![](https://img.shields.io/badge/-Podman-000?&logo=podman&logoColor=0769AD)](https://whoimi.com?ref=github)
 
 
