@@ -1,6 +1,8 @@
 <!-- https://github.com/whoimicom/readme-typing-svg -->
 <p style="text-align:center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!"  alt=""/>
+
+[//]: # (<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Doing+is+better+than+perfect.!"  alt=""/>)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Doing+is+better+than+perfect.!"  alt=""/>
 </p>
 
 <p style="text-align:center">
