@@ -4,12 +4,11 @@
 [//]: # (<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Doing+is+better+than+perfect.!"  alt=""/>)
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Doing+is+better+than+perfect.!"  alt=""/>
 </p>
+
 <p style="text-align:center">
-
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-<img style="vertical-align: middle" width="400" src="https://github-readme-stats.vercel.app/api?username=whoimicom&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs"  alt=""/>
-
 [//]: # ( https://github.com/denvercoder1/github-readme-streak-stats)
+<img style="vertical-align: middle" width="400" src="https://github-readme-stats.vercel.app/api?username=whoimicom&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs"  alt=""/>
 <img style="vertical-align: middle" width="400" src="https://streak-stats.demolab.com?user=whoimicom&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true"  alt=""/>
 <br/>
 
@@ -19,7 +18,6 @@
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
 <img style="vertical-align: middle" src="https://github-readme-stats.vercel.app/api/wakatime?username=whoimicom&theme=transparent&hide_border=true&layout=compact&langs_count=22"  alt=""/>
-<img style="vertical-align: middle" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=whoimicom&theme=transparent&hide_border=true&layout=compact&langs_count=22"  alt=""/>
 <img style="vertical-align: middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoimicom&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  alt=""/>
 <br/>
 
