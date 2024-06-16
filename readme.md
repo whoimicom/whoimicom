@@ -6,8 +6,8 @@
 </p>
 
 <p style="text-align:center">
-[//]: # (https://github.com/anuraghazra/github-readme-stats)
-[//]: # ( https://github.com/denvercoder1/github-readme-streak-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/denvercoder1/github-readme-streak-stats-->
 <img style="vertical-align: middle" width="400" src="https://github-readme-stats.vercel.app/api?username=whoimicom&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs"  alt=""/>
 <img style="vertical-align: middle" width="400" src="https://streak-stats.demolab.com?user=whoimicom&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true"  alt=""/>
 <br/>
